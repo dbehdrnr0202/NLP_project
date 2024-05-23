@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.vector_cache/
+ml/
+data/
+organized/
+source_data/
+summarized_data/
+summarized_df.tsv
+summary_df.tsv
+expected_df.tsv
